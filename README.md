@@ -12,6 +12,8 @@
 <https://github.com/dotnet/core/blob/master/samples/RaspberryPiInstructions.md>  
 <https://jeremylindsayni.wordpress.com/2017/03/20/how-to-create-deploy-and-run-a-net-core-2-0-app-on-a-raspberry-pi-3-arm-processor/>  
 <https://stackoverflow.com/questions/5343068/is-there-a-way-to-skip-password-typing-when-using-https-on-github>  
+<https://medium.com/imont/self-updating-iot-apps-on-the-raspberry-pi-using-docker-a0b223fd4eeb>  
+<https://github.com/v2tec/watchtower>  
 
 ---  
 
