@@ -14,6 +14,9 @@
 <https://stackoverflow.com/questions/5343068/is-there-a-way-to-skip-password-typing-when-using-https-on-github>  
 <https://medium.com/imont/self-updating-iot-apps-on-the-raspberry-pi-using-docker-a0b223fd4eeb>  
 <https://github.com/v2tec/watchtower>  
+<https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-local-programming-environment-on-ubuntu-16-04>  
+<https://www.digitalocean.com/community/tutorials/how-to-write-your-first-python-3-program>
+<http://ubuntuhandbook.org/index.php/2017/07/install-python-3-6-1-in-ubuntu-16-04-lts/>
 
 ---  
 
