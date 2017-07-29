@@ -17,6 +17,34 @@
 <https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-local-programming-environment-on-ubuntu-16-04>  
 <https://www.digitalocean.com/community/tutorials/how-to-write-your-first-python-3-program>
 <http://ubuntuhandbook.org/index.php/2017/07/install-python-3-6-1-in-ubuntu-16-04-lts/>
+<https://dzone.com/articles/arm-snippets-for-vs-code>  
 
 ---  
+
+go `build` task: build package on current opened file path
+```
+{
+"version": "0.1.0",
+"isShellCommand": true,
+"showOutput": "always",
+"command": "go",
+"echoCommand": true ,
+"options": {
+    "cwd": "${fileDirname}"
+},
+"tasks": [
+    {
+        "taskName": "build",
+        "args": [
+            "build",
+            "-x"
+        ],
+        "isBuildCommand": true,
+        "suppressTaskName": true
+    }
+]
+}
+
+```
+
 
